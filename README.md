@@ -8,9 +8,9 @@
 ### 🚀 我的專業領域
 
 - 📱 **App 開發實戰**：參與多款 iOS App 從 0 到 1 的開發與上架維運  
-- 🔧 **架構設計**：熟悉 MVVM、MVVM-C，並學習 TCA 與 Clean Architecture  
+- 🔧 **架構設計**：熟悉 MVVM、MVVM-C，並學習 Clean Architecture  
 - 🔄 **非同步與並發處理**：使用 async/await、Combine、TaskGroup 等技術優化流程  
-- 🛠 **CI/CD 自動化**：使用 Fastlane + CircleCI 建立全自動部署流程，部署時間縮短 90%  
+- 🛠 **CI/CD 自動化**：使用 Fastlane + CircleCI 建立全自動部署流程，人工部署時間縮短 90%  
 - 📡 **藍牙開發經驗**：維護自有 BLE 協定，與韌體團隊協作整合智能裝置
 
 ---
