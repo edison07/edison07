@@ -18,7 +18,7 @@
 ---
 
 ### 📱 代表作品
-
+- [**HOYA BIT**](https://apps.apple.com/tw/app/hoya-bit-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E4%BA%A4%E6%98%93%E6%89%80-%E4%B8%80%E9%8D%B5%E5%8F%B0%E5%B9%A3%E8%B2%B7%E8%B3%A3%E6%AF%94%E7%89%B9%E5%B9%A3/id1670525763)：加密貨幣交易平台，支援台幣法幣出入金、即時交易圖表與高標準資安合規
 - [**Ionex ATR / Global ATR**](https://apps.apple.com/tw/app/ionexatr/id1475220534)：電動機車租賃 App，支援多車型與國際市場
 - [**FUNDAY 英語通**](https://apps.apple.com/tw/app/funday%E8%8B%B1%E8%AA%9E%E9%80%9A/id1476363900)：英文學習平台 App，支援錄音與音檔播放
 - [**PIXNET 商家 App**](https://apps.apple.com/tw/app/%E7%97%9E%E5%AE%A2%E9%82%A6-%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84%E4%BA%92%E5%8B%95%E7%94%9F%E6%B4%BB%E7%99%BE%E7%A7%91/id1381323733)：支援 QRCode 註冊、推播通知、WebView 互動整合
