@@ -22,8 +22,6 @@ I'm passionate about crafting stable and maintainable iOS applications, collabor
 ### 📱 Featured Projects
 - [**HOYA BIT Crypto Exchange**](https://apps.apple.com/tw/app/hoya-bit-%E5%8A%A0%E5%AF%86%E8%B2%A8%E5%B9%A3%E4%BA%A4%E6%98%93%E6%89%80-%E4%B8%80%E9%8D%B5%E5%8F%B0%E5%B9%A3%E8%B2%B7%E8%B3%A3%E6%AF%94%E7%89%B9%E5%B9%A3/id1670525763): Cryptocurrency exchange platform featuring TWD fiat integration, real-time trading charts, and robust security compliance
 - [**Ionex ATR / Global ATR**](https://apps.apple.com/tw/app/ionexatr/id1475220534): Electric scooter rental app supporting station maps, internationalization, and BLE integration  
-- [**FUNDAY English**](https://apps.apple.com/tw/app/funday%E8%8B%B1%E8%AA%9E%E9%80%9A/id1476363900): English learning app with audio playback, voice recording, and UI/UX optimizations  
-- [**PIXNET Merchant App**](https://apps.apple.com/tw/app/%E7%97%9E%E5%AE%A2%E9%82%A6-%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84%E4%BA%92%E5%8B%95%E7%94%9F%E6%B4%BB%E7%99%BE%E7%A7%91/id1381323733): Feature-rich app with QR code onboarding, push notifications, and WebView interactions
 
 ---
 
